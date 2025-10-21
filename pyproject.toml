@@ -1,0 +1,10 @@
+[tool.pytest.ini_options]
+minversion = "6.0"
+addopts = "-ra -q"
+testpaths = [
+    "tests",
+]
+
+[tool.ruff]
+line-length = 88
+select = ["E", "F", "W", "I"] # Standard flake8 rules + isort

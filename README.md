@@ -1,6 +1,6 @@
 # Mijann — Open-Source Semantic Shield for Conversational Agents
 
-> **Elevator**: Mijann is an open-source, LLM-agnostic security shield that inspects, sanitizes, and blocks malicious prompts to prevent jailbreaks, data exfiltration, and unauthorized tool use in conversational agents.
+> Mijann is an open-source, LLM-agnostic security shield that inspects, sanitizes, and blocks malicious prompts to prevent jailbreaks, data exfiltration, and unauthorized tool use in conversational agents. Read the complete whitepaper [here](./WHITEPAPER.md)
 
 ---
 

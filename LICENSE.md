@@ -1,4 +1,4 @@
-Copyright (c) 2025 KNOWDYN. All Rights Reserved.
+Copyright © KNOWDYN LTD. All Rights Reserved.
 
 ## License Summary
 

@@ -1,0 +1,11 @@
+# For linting and formatting
+ruff
+
+# For testing
+pytest
+
+# For token counting utility
+tiktoken
+
+# For running the OpenAI integration example
+openai
